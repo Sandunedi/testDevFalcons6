@@ -1,5 +1,9 @@
 Hello GitHub.
 
+<<<<<<< HEAD
 change it in VS code
 changes 2 Changes done again
 What is happening
+=======
+hello github again
+>>>>>>> 1347ac10653f967a4379e0c77065299d2e99825d
